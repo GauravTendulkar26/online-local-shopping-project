@@ -22,7 +22,7 @@ Contact us at :- gauravtendulkar1165@gmail.com
 <br>
 or
 <br>
-contact us at GitHub: <a href="https://github.com/GauravTendulkar26" target="_blank">GauravTendulkar26</a>
+contact us at GitHub: <a href="https://github.com/gaurav-tendulkar" target="_blank">GauravTendulkar</a>
 </div>
 
 </body>
